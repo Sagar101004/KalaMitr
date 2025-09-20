@@ -59,7 +59,7 @@ A single prompt → a published story
 
 📽️ [Watch current app devloped Video](https://drive.google.com/file/d/18gzeeMWmZDzD0Z29npeC73uroRixQUaA/view?usp=drive_link)
 
-![Demo Screenshot](https://github.com/Sagar101004/KalaMitr/blob/main/assets/bot_images_1.jpg)
+you can view the 
 
 ---
 
