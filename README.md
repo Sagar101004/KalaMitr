@@ -59,15 +59,15 @@ A single prompt → a published story
 
 📽️ [Watch current app devloped Video](https://drive.google.com/file/d/18gzeeMWmZDzD0Z29npeC73uroRixQUaA/view?usp=drive_link)
 
-![Alt text](https://github.com/YourUsername/YourRepoName/raw/main/assets/your-image.png)
+![Demo Screenshot](https://github.com/Sagar101004/KalaMitr/blob/main/assets/bot_images_1.jpg)
 
 ---
 
 ## 👥 Team  
 
-- Sagar T k – Leader – [LinkedIn/GitHub]  
+- Sagar T k – Leader – https://github.com/Sagar101004
 - Ranga Gowda G P – Reserach – [LinkedIn/GitHub]  
 - Vibha S Aradhya – Devloper – [LinkedIn/GitHub]  
-- Dheeraj Gowda D S – Devloper – [LinkedIn/GitHub] 
+- Dheeraj Gowda D S – Devloper – https://github.com/DheerajGowdaDS 
 
-```markdown
+```
