@@ -57,24 +57,17 @@ A single prompt → a published story
 
 *(Setup & execution instructions will be added here)*  
 
-📽️ [Watch Demo Video](https://drive.google.com/file/d/18gzeeMWmZDzD0Z29npeC73uroRixQUaA/view?usp=drive_link)
+📽️ [Watch current app devloped Video](https://drive.google.com/file/d/18gzeeMWmZDzD0Z29npeC73uroRixQUaA/view?usp=drive_link)
+
+![Alt text](https://github.com/YourUsername/YourRepoName/raw/main/assets/your-image.png)
 
 ---
 
 ## 👥 Team  
 
-- [Team Member 1] – [Role] – [LinkedIn/GitHub]  
-- [Team Member 2] – [Role] – [LinkedIn/GitHub]  
-- [Team Member 3] – [Role] – [LinkedIn/GitHub]  
-
----
-
-## 🖼️ Guide to Adding Images & Videos  
-
-### Images  
-1. Create an `assets/` folder in your GitHub repo  
-2. Upload images to that folder  
-3. Reference them like this:  
+- Sagar T k – Leader – [LinkedIn/GitHub]  
+- Ranga Gowda G P – Reserach – [LinkedIn/GitHub]  
+- Vibha S Aradhya – Devloper – [LinkedIn/GitHub]  
+- Dheeraj Gowda D S – Devloper – [LinkedIn/GitHub] 
 
 ```markdown
-![Alt text](https://github.com/YourUsername/YourRepoName/raw/main/assets/your-image.png)
